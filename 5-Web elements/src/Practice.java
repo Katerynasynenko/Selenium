@@ -39,6 +39,8 @@ public class Practice {
 			System.out.println(radio.getText());
 		}
 		
+		
+		
 	}
 
 }
